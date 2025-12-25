@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // สำหรับ custom domain เท่านั้น
+  base: '/childhope/', // สำหรับ GitHub Pages subdirectory
 })
